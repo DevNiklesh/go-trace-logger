@@ -1,0 +1,43 @@
+2024-06-25T16:43:57+05:30 [warning] Parent This is Warning
+2024-06-25T16:43:57+05:30 [error] Parent This is Error
+2024-06-25T16:43:57+05:30 [fatal] Parent This is Fatal
+2024-06-25T16:43:57+05:30 [warning] Parent Child This is Warning
+2024-06-25T16:43:57+05:30 [error] Parent Child This is Error
+2024-06-25T16:43:57+05:30 [fatal] Parent Child This is Fatal
+2024-06-25T16:47:41+05:30 [warning] Parent This is Warning
+2024-06-25T16:47:41+05:30 [error] Parent This is Error
+2024-06-25T16:47:41+05:30 [fatal] Parent This is Fatal
+2024-06-25T16:47:41+05:30 [warning] Parent Child This is Warning
+2024-06-25T16:47:41+05:30 [error] Parent Child This is Error
+2024-06-25T16:47:41+05:30 [fatal] Parent Child This is Fatal
+
+---
+2024-06-25T16:47:50+05:30 [warning] Parent This is Warning
+2024-06-25T16:47:50+05:30 [error] Parent This is Error
+2024-06-25T16:47:50+05:30 [fatal] Parent This is Fatal
+2024-06-25T16:47:50+05:30 [warning] Parent Child This is Warning
+2024-06-25T16:47:50+05:30 [error] Parent Child This is Error
+2024-06-25T16:47:50+05:30 [fatal] Parent Child This is Fatal
+
+
+---
+2024-06-25T16:48:32+05:30 [warning] Parent This is Warning
+2024-06-25T16:48:32+05:30 [error] Parent This is Error
+2024-06-25T16:48:32+05:30 [fatal] Parent This is Fatal
+2024-06-25T16:48:32+05:30 [warning] Parent Child This is Warning
+2024-06-25T16:48:32+05:30 [error] Parent Child This is Error
+2024-06-25T16:48:32+05:30 [fatal] Parent Child This is Fatal
+2024-06-25T16:48:32+05:30 [warning] Parent Child GrandChild This is Warning
+2024-06-25T16:48:32+05:30 [error] Parent Child GrandChild This is Error
+2024-06-25T16:48:32+05:30 [fatal] Parent Child GrandChild This is Fatal
+
+---
+2024-06-25T16:48:48+05:30 [warning] Parent This is Warning
+2024-06-25T16:48:48+05:30 [error] Parent This is Error
+2024-06-25T16:48:48+05:30 [fatal] Parent This is Fatal
+2024-06-25T16:48:48+05:30 [warning] Parent Child This is Warning
+2024-06-25T16:48:48+05:30 [error] Parent Child This is Error
+2024-06-25T16:48:48+05:30 [fatal] Parent Child This is Fatal
+2024-06-25T16:48:48+05:30 [warning] Parent Child GrandChild This is Warning
+2024-06-25T16:48:48+05:30 [error] Parent Child GrandChild This is Error
+2024-06-25T16:48:48+05:30 [fatal] Parent Child GrandChild This is Fatal
